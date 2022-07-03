@@ -6,7 +6,7 @@ public class Milkshake {
     public static int nuts = 3;
     public static int almonds = 5;
     public static int pistachios = 5;
-
+// comment
     public static int chocolateMilkshakeWithAlmonds(){
         return chocolateMilkshake+almonds;
     }
