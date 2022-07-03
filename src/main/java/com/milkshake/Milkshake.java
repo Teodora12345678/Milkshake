@@ -10,7 +10,9 @@ public class Milkshake {
     public static int chocolateMilkshakeWithAlmonds(){
         return chocolateMilkshake+almonds;
     }
-
+     public static int getChocolateMilkshakeWithNuts(){
+        return chocolateMilkshake+nuts;
+     }
     public static int chocolateMilkshakeWithNuts(){
         return chocolateMilkshake+nuts;
     }
